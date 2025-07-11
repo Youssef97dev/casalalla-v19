@@ -69,7 +69,7 @@ const Navbar = () => {
         )}
         <div className="w-full flex justify-end items-center">
           <Link
-            href="#"
+            href="/booking"
             className={`text-center border border-black bg-bgButton text-black py-1 lg:py-2 uppercase text-[15px] ${
               scrolled ? "w-full lg:w-[30%]" : "w-full lg:w-[20%]"
             }`}
@@ -120,13 +120,10 @@ const Navbar = () => {
                 </Link>
               </li>
               <li className="pb-3 border-b hover:text-bgButton hover:border-bgButton">
-                <Link href="/contact">Contact</Link>
+                <Link href="#">Contact</Link>
               </li>
               <li className="pb-3 border-b hover:text-bgButton hover:border-bgButton">
-                <Link
-                  target="_blank"
-                  href="https://casalallatakerkoust.com/gallery.html"
-                >
+                <Link target="_blank" href="/gallery">
                   {t("navbar.gallery")}
                 </Link>
               </li>
