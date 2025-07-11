@@ -1,0 +1,113 @@
+{
+  "navbar": {
+    "home": "Accueil",
+    "restaurant": "Restaurant",
+    "gallery": "Galerie",
+    "events": "Événements",
+    "activities": "Activités",
+    "menu": "https://casalalla.blogspot.com/2023/08/blog-post.html",
+    "lang": "Francais",
+    "reservation": "Réservation",
+    "cart": "La Carte",
+    "experience": "Découvrez l'ambiance authentique du lac Lalla Takerkoust et du désert d'Agafay"
+  },
+  "hero": {
+    "text_1": "Situé au seuil du paysage impressionnant du Lac Lalla Takerkoust.",
+    "text_2": "Un havre caché où se dévoile l’âme de la beauté naturelle du Lac Lalla Takerkoust"
+  },
+  "about": {
+    "title": "Casa Lalla Takerkoust : une cuisine exquise et une vue panoramique extraordinaire",
+    "content_1": "Casa lalla accueille ses hotes Loin de la sophistication et du tumulte de la ville, ce havre de paix est l’endroit rêvé pour se laisser aller aux plaisirs simples et savourer la douceur du climat.",
+    "content_2": "La décoration mêle souvenirs et héritage dans une atmosphère simple et décalée où plane un doux parfum de formentera ibiza mykonos.",
+    "content_3": "Bien plus qu’un restaurant cet endroit au bord du lac est un véritable lieu de vie. Restaurant, bar, piscine, cabanes privées tout est fait pour se reposer, partager, célébrer et créer des souvenirs impérissables.",
+    "content_4": "À casa lalla, vous vivrez des moments extravagants où la joie d'être ensemble et les plaisirs gourmands suspendent le cours du temps - sous le signe de La Dolce Vita and festivities!",
+    "button_book": "Réserver une table"
+  },
+  "events": {
+    "title": "Casa Lalla est un espace où les visiteurs peuvent manger, boire et célébrer",
+    "content": "La vue exceptionnelle de notre paysage naturel est la scène parfaite pour votre événement ou votre célébration. Qu'il s'agisse d'un mariage, d'un anniversaire, d'une séance photo ou d'un événement de marque, vous pouvez vous approprier Casa Lalla pour vivre un moment inoubliable. Que ce soit en toute intimité ou en grand, notre concept spécial vous permettra de donner vie à votre imagination en toute simplicité."
+  },
+  "activities": {
+    "title": "Casa Lalla Takerkoust offert des expériences uniques",
+    "title_1": "Transport",
+    "title_4": "Promenade dans la nature / Hike",
+    "title_5": "Équitation",
+    "title_6": "Désert d'Agafay",
+    "title_7": "Excursion à vélo",
+    "trans_desc": "Lalla Takerkoust est accessible en taxi ou en bus.",
+    "quad_desc": "Satisfaites votre besoin de vitesse et d'aventure avec un tour en quad autour de Lalla Takerkoust et admirez des paysages à couper le souffle. Des guides expérimentés vous emmèneront hors des sentiers battus, au pied des montagnes du Haut Atlas.",
+    "quad_desc_1": "Quad simple 1 heure 300dh",
+    "quad_desc_2": "Quad Double 1 Heure 500dh",
+    "quad_desc_3": "Quad Simple 2 Heures 500dh",
+    "quad_desc_4": "Quad Double 2 Heures 800dh",
+    "quad_desc_5": "Buggy 2 places 1 Heure 800dh",
+    "quad_desc_6": "Buggy 2 Places 2 Heures 1400dh",
+    "jetski_desc": "Faites battre votre cœur avec une aventure en jet ski en glissant sur le pittoresque lac de Lalla Takerkoust et en profitant d'une vue imprenable sur les montagnes enneigées du Haut Atlas.",
+    "jetski_desc_1": "400dh pendant 15 minutes",
+    "hike_desc": "Explorez les eaux sereines de Lalla Takerkoust à pied avec un guide expert et découvrez la flore et la faune vibrantes qui se trouvent dans ce paysage diversifié. Vous pouvez choisir une promenade tranquille dans la nature ou vous aventurer dans les collines environnantes pour une randonnée plus rigoureuse. Parfait pour les ornithologues et les amateurs de photographie, cet environnement paisible promet un répit dans la vie trépidante de Marrakech.",
+    "riding_desc": "Expérimentez la magie de la randonnée à cheval autour du lac étincelant de Lalla Takerkoust et découvrez des paysages variés en voyageant hors des sentiers battus autour du lac, des contreforts des montagnes du Haut Atlas et du désert de pierre voisin d'Agafay.",
+    "agafay_desc_1": "Découvrez le désert rocailleux d'Agafay et comprenez pourquoi c'est l'un des terrains de jeu préférés des Marocains. Vivez vos rêves de désert de dunes et explorez-le en quad, en buggy ou à dos de chameau.",
+    "agafay_desc_2": "Les activités ne manquent pas dans le désert d'Agafay, situé à seulement 5 minutes de Lalla Takerkoust.",
+    "bike_desc": "Explorez Lalla Takerkoust lors d'une randonnée à vélo revigorante à travers le désert d'Agafay, puis arrivez à l'oasis que constituent les eaux cristallines du lac Lalla Takerkoust et les montagnes enneigées du Haut Atlas qui l'entourent. Préparez-vous à une randonnée hors du temps qui vous laissera des souvenirs inoubliables !",
+    "book_experience": "Réserver une expérience"
+  },
+  "contact": {
+    "title": "Le Restaurant Casa lalla takerkoust",
+    "open": "Ouvert Tous les jours de 13H00 à 22H00",
+    "title_2": "Contactez-nous",
+    "subtitle": "Pour les rassemblements, les célébrations spéciales, les séances photos ou pour plus d'informations sur nous, veuillez nous envoyer un message en utilisant le formulaire de contact ci-dessous.",
+    "span": "Pour nous envoyer un courriel :",
+    "firstname": "Prénom",
+    "lastname": "Nom",
+    "email": "E-mail",
+    "subject": "Sujet",
+    "submit": "Envoyer",
+    "phone": "Téléphone"
+  },
+  "rooms": {
+    "title": "Découvrez un confort inégalé sur les rives du lac Takerkoust",
+    "content_1": "Au cœur des montagnes de l'Atlas et à 8 minutes du désert d'Agafay, Casa Lalla est le dernier ajout à la scène gastronomique florissante de Marrakech. Avec une vue exceptionnelle sur le lac, vous pourrez déguster des fruits de mer exquis avec un minimum de préparation, en utilisant les meilleurs produits traités avec le plus grand respect et la plus grande expertise.",
+    "content_2": "Avec une vue exceptionnelle sur le lac, la Casa Lalla Takerkoust est un lieu unique en son genre qui offre  une échappatoire parfaite à l'agitation de la vie quotidienne. Profitez de vues à couper le souffle, d'une hospitalité exceptionnelle et d'une gamme d'activités qui vous permettront de vous immerger dans la beauté du paysage environnant. Que vous soyez ici pour la détente ou l'aventure, nous vous invitons à découvrir la magie du lac Takerkoust.",
+    "button_book": "Réserver une chambre",
+    "title_2": "Séjour"
+  },
+  "room_one": {
+    "title": "Room 1",
+    "capacity": "Capacité",
+    "size": "Size",
+    "description": "Cette suite spacieuse et ouverte offre une vue imprenable sur le lac Takerkoust depuis la chambre à coucher, tandis que la salle de bains offre une vue imprenable sur les montagnes environnantes. La salle de bains offre une vue imprenable sur les montagnes environnantes. Les clients peuvent également profiter de la vue pittoresque du coucher de soleil sur le paysage paisible, créant ainsi une retraite parfaite dans la nature.",
+    "price": "From €380",
+    "book": "Réserver"
+  },
+  "room_two": {
+    "title": "Room 2",
+    "capacity": "Capacité",
+    "size": "Size",
+    "description": "Cette suite spacieuse et ouverte offre une vue imprenable sur le lac Takerkoust depuis la chambre à coucher, tandis que la salle de bains offre une vue imprenable sur les montagnes environnantes. La salle de bains offre une vue imprenable sur les montagnes environnantes. Les clients peuvent également profiter de la vue pittoresque du coucher de soleil sur le paysage paisible, créant ainsi une retraite parfaite dans la nature.",
+    "price": "From €380",
+    "book": "Réserver"
+  },
+  "room_three": {
+    "title": "Room 3",
+    "capacity": "Capacité",
+    "size": "Size",
+    "description": "Cette suite spacieuse et ouverte offre une vue imprenable sur le lac Takerkoust depuis la chambre à coucher, tandis que la salle de bains offre une vue imprenable sur les montagnes environnantes. La salle de bains offre une vue imprenable sur les montagnes environnantes. Les clients peuvent également profiter de la vue pittoresque du coucher de soleil sur le paysage paisible, créant ainsi une retraite parfaite dans la nature.",
+    "price": "From €380",
+    "book": "Réserver"
+  },
+  "room_four": {
+    "title": "Room 4",
+    "capacity": "Capacité",
+    "size": "Size",
+    "description": "Cette suite spacieuse et ouverte offre une vue imprenable sur le lac Takerkoust depuis la chambre à coucher, tandis que la salle de bains offre une vue imprenable sur les montagnes environnantes. La salle de bains offre une vue imprenable sur les montagnes environnantes. Les clients peuvent également profiter de la vue pittoresque du coucher de soleil sur le paysage paisible, créant ainsi une retraite parfaite dans la nature.",
+    "price": "From €380",
+    "book": "Réserver"
+  },
+  "booking": {
+    "title": "Demande de réservation",
+    "request": "Envoyer une demande",
+    "reservationDate": "Date de réservation",
+    "time": "Heure",
+    "guests": "Nombre de personnes"
+  }
+}
