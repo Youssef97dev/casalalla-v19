@@ -99,36 +99,36 @@ const Navbar = () => {
               className="space-y-8 text-black leading-[25px] text-[16px] font-light"
             >
               <li className="pb-3 border-b  hover:text-bgButton hover:border-bgButton">
-                <Link href="/">{"Home"}</Link>
+                <Link href="/">{t("navbar.home")}</Link>
               </li>
               <li className="pb-3 border-b hover:text-bgButton hover:border-bgButton">
-                <Link href="#about">{"About"}</Link>
+                <Link href="#about">{t("navbar.restaurant")}</Link>
               </li>
 
               <li className="pb-3 border-b hover:text-bgButton hover:border-bgButton">
-                <Link href="#events">{"Events"}</Link>
+                <Link href="#events">{t("navbar.events")}</Link>
               </li>
               <li className="pb-3 border-b hover:text-bgButton hover:border-bgButton">
-                <Link href="#activities">{"Activities"}</Link>
+                <Link href="#activities">{t("navbar.activities")}</Link>
+              </li>
+              <li className="pb-3 border-b hover:text-bgButton hover:border-bgButton">
+                <Link href="#kitchen">{t("navbar.kitchen")}</Link>
               </li>
               <li className="pb-3 border-b hover:text-bgButton hover:border-bgButton">
                 <Link href="#" target="_blank">
-                  Menu
+                  {t("navbar.cart")}
                 </Link>
               </li>
               <li className="pb-3 border-b hover:text-bgButton hover:border-bgButton">
-                <Link
-                  href="https://casalallatakerkoust.com/custom-booking"
-                  target="_blank"
-                >
-                  Contact
-                </Link>
+                <Link href="/contact">Contact</Link>
               </li>
               <li className="pb-3 border-b hover:text-bgButton hover:border-bgButton">
                 <Link
                   target="_blank"
                   href="https://casalallatakerkoust.com/gallery.html"
-                >{`Gallery`}</Link>
+                >
+                  {t("navbar.gallery")}
+                </Link>
               </li>
               <li className="pb-3 border-b hover:text-bgButton hover:border-bgButton flex justify-start items-center gap-5">
                 <div

@@ -7,6 +7,8 @@ import Intro from "./Intro";
 import About from "./About";
 import Events from "./Events";
 import Activities from "./Activities";
+import Kitchen from "./Kitchen";
+import Footer from "./Footer";
 
 const Loader = () => {
   const [isClient, setIsClient] = useState(false);
@@ -27,6 +29,8 @@ const Loader = () => {
           <About />
           <Events />
           <Activities />
+          <Kitchen />
+          <Footer />
           {/*<div className="fixed bottom-5 left-0 w-full block lg:hidden z-10">
             <Buttons />
           </div>*/}

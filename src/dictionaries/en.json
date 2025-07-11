@@ -9,7 +9,8 @@
     "lang": "English",
     "reservation": "Reservation",
     "cart": "Menu",
-    "experience": "Experience the real vibe of Lack Lalla Takerkoust and Agafay Desert"
+    "experience": "Experience the real vibe of Lack Lalla Takerkoust and Agafay Desert",
+    "kitchen": "Kitchen"
   },
   "hero": {
     "text_1": "Set in front of the breathtaking backdrop of Lac Lalla Takerkoust",
@@ -50,6 +51,12 @@
     "agafay_desc_2": "There is no shortage of activities to enjoy when visiting the neighboring Agafay Desert, only 5 minutes away from Lalla Takerkoust.",
     "bike_desc": "Explore Lalla Takerkoust on an invigorating bike ride through the Agafay Desert and then arrive at the oasis that is the crystal-clear waters of Lalla Takerkoust lake and the surrounding snow-capped High Atlas Mountains. Get ready for a timeless ride that is sure to provide unforgettable memories!",
     "book_experience": "Book an Experience"
+  },
+  "kitchen": {
+    "title": "Shared Plates, Fresh Flavors & Culinary Connections",
+    "content_1": "Like our music, art, and wellbeing explorations, the kitchen at casa lalla thrives on breaking down borders and bringing people together",
+    "content_2": "All dishes are meant to be shared an array of complementary flavours and contrasting textures that honour the freshness of the ingredients.",
+    "content_3": "From delicate raw meze (such as Dry-aged red snapper carpaccio with shaved fennel and lemon oil) to feasting platters (a rack of slow-roast chiken  with or a whole lamb shoulder smoked with vine leaves), the menu riffs on whatever the locals have caught and harvested each day."
   },
   "contact": {
     "title": "Casa lalla takerkoust restaurant",

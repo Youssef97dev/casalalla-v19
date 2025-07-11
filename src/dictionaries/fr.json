@@ -9,7 +9,8 @@
     "lang": "Francais",
     "reservation": "Réservation",
     "cart": "La Carte",
-    "experience": "Découvrez l'ambiance authentique du lac Lalla Takerkoust et du désert d'Agafay"
+    "experience": "Découvrez l'ambiance authentique du lac Lalla Takerkoust et du désert d'Agafay",
+    "kitchen": "La cuisine"
   },
   "hero": {
     "text_1": "Situé au seuil du paysage impressionnant du Lac Lalla Takerkoust.",
@@ -50,6 +51,12 @@
     "agafay_desc_2": "Les activités ne manquent pas dans le désert d'Agafay, situé à seulement 5 minutes de Lalla Takerkoust.",
     "bike_desc": "Explorez Lalla Takerkoust lors d'une randonnée à vélo revigorante à travers le désert d'Agafay, puis arrivez à l'oasis que constituent les eaux cristallines du lac Lalla Takerkoust et les montagnes enneigées du Haut Atlas qui l'entourent. Préparez-vous à une randonnée hors du temps qui vous laissera des souvenirs inoubliables !",
     "book_experience": "Réserver une expérience"
+  },
+  "kitchen": {
+    "title": "Assiettes à Partager, Saveurs Fraîches & Art Culinaire",
+    "content_1": "Tout comme nos explorations musicales, artistiques et bien-être, la cuisine de Casa Lalla s'épanouit en décloisonnant les frontières pour rassembler les gens.",
+    "content_2": "Tous les plats sont conçus pour être partagés : une mosaïque de saveurs complémentaires et de textures contrastées qui célèbrent la fraîcheur des ingrédients.",
+    "content_3": "Des mézzés crus délicats (comme le carpaccio de sébaste vieilli au citron, fenouil râpé et huile citronnée) aux plateaux de fête (côtelettes de poulet rôti lentement ou épaule d'agneau entière fumée aux feuilles de vigne), la carte improvise au gré des prises et récoltes locales du jour."
   },
   "contact": {
     "title": "Le Restaurant Casa lalla takerkoust",
