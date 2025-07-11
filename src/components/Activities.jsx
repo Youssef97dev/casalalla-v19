@@ -120,7 +120,6 @@ const Activities = () => {
             </h1>
             <Accordion />
             <Link
-              target="_blank"
               href="/custom-booking"
               className="w-full text-center mt-2 py-2 px-8 uppercase tracking-widest border border-bgButton text-bgButton rounded-lg text-[12px] leading-[34px] hover:bg-bgButton hover:text-white duration-200 transition-all ease-out"
             >
