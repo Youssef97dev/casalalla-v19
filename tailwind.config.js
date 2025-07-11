@@ -12,6 +12,9 @@ module.exports = {
         background: "var(--background)",
         bgFooter: "var(--bg-footer)",
       },
+      fontFamily: {
+        minionPro: ["MinionPro", "sans-serif"],
+      },
     },
   },
   plugins: [],

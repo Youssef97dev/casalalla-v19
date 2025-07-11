@@ -71,7 +71,7 @@ const Navbar = () => {
           <Link
             href="#"
             className={`text-center border border-black bg-bgButton text-black py-1 lg:py-2 uppercase text-[15px] ${
-              scrolled ? "w-[30%]" : "w-[20%]"
+              scrolled ? "w-full lg:w-[30%]" : "w-full lg:w-[20%]"
             }`}
           >
             {"Book Now"}
